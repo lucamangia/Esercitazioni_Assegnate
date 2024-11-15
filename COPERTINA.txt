@@ -1,1 +1,2 @@
-In questa repository, verrano caricati tutti gli esercizi svolti che ci vengono assegnati al di fuori della piattaforma.
+In questa repository, verrano caricati tutti gli esercizi svolti
+che ci vengono assegnati al di fuori della piattaforma.
